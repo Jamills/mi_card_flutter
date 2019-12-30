@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+https://github.com/Jamills/mi_card_flutter/blob/master/mi_card_flutter.png
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
